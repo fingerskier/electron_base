@@ -1,0 +1,1 @@
+export const spectrumURL = 'https://localhost:3000'
